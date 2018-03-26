@@ -1,0 +1,4 @@
+1-loop on each number from 3 to 100.
+2-test if each of these number is divisable by a number
+from 2 to 9, if so it isn't a prime number and don't print it,
+if not, then print it.

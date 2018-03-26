@@ -1,0 +1,8 @@
+1-create the ciphering table(omitting the "z" letter) and make z ciphered as &.
+2-Take what the user want(cipher,decipher or exit)
+3-Take the message and the key.
+4- either cipher the message by replacing each letter with the corresponing 2 numbers,
+that is the row and colum. or decipher the message by replacing each 2 numbers with the 
+corresponding letter. all that is according to the user input.
+5-print the ciphered or deciphered version of the message.
+6- repeat from step 2.
